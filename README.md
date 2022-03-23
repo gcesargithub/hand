@@ -1,1 +1,1 @@
-# hand
+# hand is a project
